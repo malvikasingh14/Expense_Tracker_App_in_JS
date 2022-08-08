@@ -1,4 +1,4 @@
-# Expense_Tracker_App_in_JS
+# Expense Tracker App 
 
 *A basic app to track all our expense, it displays all your expenses in the form of a list.*
 
