@@ -1,12 +1,8 @@
 # Expense_Tracker_App_in_JS
 
-A basic app to track all our expense, it displays all your expenses in the form of a list.
-
-Stacks used:
-Frontend: HTML5 and CSS
-Backend: Javascript
+*A basic app to track all our expense, it displays all your expenses in the form of a list.*
 
 to run:
-Clone the repo
-and run the file called page.html
+1. Clone the repo
+2. run the file called page.html
 
